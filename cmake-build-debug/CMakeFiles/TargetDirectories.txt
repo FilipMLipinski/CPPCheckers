@@ -1,0 +1,3 @@
+C:/Users/lipek/CLionProjects/CPPCheckers/cmake-build-debug/CMakeFiles/CPPCheckers.dir
+C:/Users/lipek/CLionProjects/CPPCheckers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lipek/CLionProjects/CPPCheckers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
